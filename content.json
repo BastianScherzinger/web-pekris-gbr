@@ -1,19 +1,25 @@
 {
-  "site_name": "Muster Handwerk",
-  "headline": "Handwerk, auf das Sie sich verlassen können",
-  "subline": "Qualität aus Ihrer Region — zuverlässig, sauber und termintreu.",
-  "akzent": "#c8102e",
-  "branche": "Handwerk",
-  "stadt": "",
+  "site_name": "Pekris GbR",
+  "branche": "Umzugsunternehmen",
+  "stadt": "Weinheim",
   "telefon": "",
   "email": "",
-  "adresse": "",
+  "adresse": "Von-Kronberg-Str. 2 64646 Heppenheim",
+  "akzent": "#1d6fb8",
+  "fotos": [
+    "/static/img/gal_ph1.svg",
+    "/static/img/gal_ph2.svg",
+    "/static/img/gal_ph3.svg"
+  ],
+  "hero_image": "/static/img/hero.png",
+  "headline": "Umzugsunternehmen aus Weinheim",
+  "subline": "Qualität aus Ihrer Region — zuverlässig, sauber und termintreu.",
   "ueber_titel": "Über uns",
-  "ueber_text": "Seit Jahren Ihr verlässlicher Partner in der Region. Wir verbinden traditionelles Handwerk mit moderner Ausführung.",
+  "ueber_text": "Pekris GbR ist Ihr verlässlicher Partner für Umzugsunternehmen in Weinheim. Persönlich, gründlich und termintreu.",
   "leistungen": [
     {
       "titel": "Beratung",
-      "text": "Persönlich, ehrlich und auf Ihr Projekt zugeschnitten."
+      "text": "Persönlich und auf Ihr Projekt zugeschnitten."
     },
     {
       "titel": "Ausführung",
@@ -21,16 +27,39 @@
     },
     {
       "titel": "Service",
-      "text": "Auch nach Abschluss für Sie da — ein fester Ansprechpartner."
+      "text": "Auch nach Abschluss für Sie da."
     }
   ],
-  "fotos": [],
   "cta_text": "Jetzt unverbindlich anfragen",
-  "seo_title": "Muster Handwerk",
-  "seo_desc": "Qualität aus Ihrer Region.",
+  "seo_title": "Pekris GbR — Umzugsunternehmen Weinheim",
+  "seo_desc": "Umzugsunternehmen aus Weinheim.Jetzt anfragen.",
   "jahr": 2026,
-  "hero_source": "template",
-  "hero_refresh_version": 7,
-  "hero_image": "/static/img/hero.png",
-  "hero_template": "umzug.jpg"
+  "rechner": {
+    "titel": "Kostenrechner",
+    "untertitel": "Unverbindliche Sofort-Schätzung",
+    "posten": [
+      {
+        "name": "1–2-Zimmer-Wohnung",
+        "ab": 600,
+        "bis": 1400
+      },
+      {
+        "name": "3–4-Zimmer-Wohnung",
+        "ab": 1000,
+        "bis": 2400
+      },
+      {
+        "name": "Einzelstück / Klaviertransport",
+        "ab": 120,
+        "bis": 400
+      }
+    ],
+    "hinweis": "Grobe Orientierung — Ihr genaues, kostenloses Angebot erstellen wir nach kurzer Rücksprache."
+  },
+  "site_version": "1.0",
+  "font_display": "Archivo",
+  "font_body": "Inter",
+  "taste_applied": true,
+  "about_image": "/static/img/about_ph.svg",
+  "placeholder_images": true
 }
