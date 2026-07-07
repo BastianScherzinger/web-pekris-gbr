@@ -15,19 +15,31 @@
   "headline": "Umzugsunternehmen aus Weinheim",
   "subline": "Qualität aus Ihrer Region — zuverlässig, sauber und termintreu.",
   "ueber_titel": "Über uns",
-  "ueber_text": "Pekris GbR ist Ihr verlässlicher Partner für Umzugsunternehmen in Weinheim. Persönlich, gründlich und termintreu.",
+  "ueber_text": "Pekris GbR ist ein verlässliches Umzugsunternehmen aus Weinheim, das seit vielen Jahren für seine Kunden tätig ist. Wir legen großen Wert auf persönliche Beratung und einen zuverlässigen Service. Unsere Erfahrung in der Region ermöglicht es uns, Ihren Umzug sicher und ohne Stress zu gestalten.",
   "leistungen": [
     {
-      "titel": "Beratung",
-      "text": "Persönlich und auf Ihr Projekt zugeschnitten."
+      "titel": "Schnelle und zuverlässige Umzugsplanung",
+      "text": "Wir organisieren Ihren Umzug gründlich und zeitgerecht."
     },
     {
-      "titel": "Ausführung",
-      "text": "Saubere, termintreue Arbeit mit Liebe zum Detail."
+      "titel": "Persönliche Beratung",
+      "text": "Sie erhalten individuelle Unterstützung bei jedem Schritt Ihres Umzugs."
     },
     {
-      "titel": "Service",
-      "text": "Auch nach Abschluss für Sie da."
+      "titel": "Effiziente Transportlogistik",
+      "text": "Unsere Fahrer bringen Ihre Habseligkeiten sicher ans Ziel."
+    },
+    {
+      "titel": "Umzugshilfe und Einrichten",
+      "text": "Wir helfen Ihnen, Ihr neues Zuhause schnell einzurichten."
+    },
+    {
+      "titel": "Sicherheitsgarantie",
+      "text": "Ihre wertvollen Gegenstände sind bei uns in guten Händen."
+    },
+    {
+      "titel": "Flexibilität und Anpassungsfähigkeit",
+      "text": "Wir passen unseren Service an Ihre Bedürfnisse an."
     }
   ],
   "cta_text": "Jetzt unverbindlich anfragen",
@@ -69,5 +81,40 @@
   ],
   "makeover_version": 7,
   "hero_source": "template",
-  "hero_template": "umzug.jpg"
+  "hero_template": "umzug.jpg",
+  "impressum": "Impressum\n\nAngaben gemäß § 5 DDG\n\nPekris GbR\nVon-Kronberg-Str. 2 64646 Heppenheim\n\nVertreten durch:\n[bitte ergänzen]\n\nKontakt:\nTelefon: [bitte ergänzen]\nE-Mail: info@web-pekris-gbr-production.up.railway.app\n\nUmsatzsteuer-ID:\nUmsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: [bitte ergänzen]\n\nVerbraucherstreitbeilegung/Universalschlichtungsstelle:\nWir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\n\nHaftung für Inhalte:\nAls Diensteanbieter sind wir gemäß § 7 Abs.1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt.",
+  "datenschutz": "Datenschutzerklärung\n\n1. Datenschutz auf einen Blick\nDie folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.\n\n2. Verantwortliche Stelle\nPekris GbR\nVon-Kronberg-Str. 2 64646 Heppenheim\nTelefon: [bitte ergänzen]\nE-Mail: info@web-pekris-gbr-production.up.railway.app\nAnsprechpartner: [bitte ergänzen]\n\n3. Erfassung von Daten / Kontaktformular\nWenn Sie uns über das Kontaktformular oder per E-Mail kontaktieren, werden Ihre Angaben inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (Anbahnung/Erfüllung eines Vertrags) bzw. Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Beantwortung). Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.\n\n4. Hosting & Server-Log-Dateien\nDer Provider der Seiten erhebt und speichert automatisch Informationen in sogenannten Server-Log-Dateien (Browsertyp, Betriebssystem, Referrer-URL, Hostname, Uhrzeit). Diese Daten sind nicht bestimmten Personen zuordenbar und dienen der technischen Sicherheit.\n\n5. Herkunft der Daten bei Direktansprache\nSoweit wir Betriebe erstmals per E-Mail kontaktieren, verarbeiten wir öffentlich zugängliche Geschäftskontaktdaten (Firmenname, Anschrift, Telefon, geschäftliche E-Mail), die wir aus allgemein einsehbaren Quellen wie Branchenverzeichnissen, Kartendiensten (z. B. Google Maps) und der jeweiligen Firmen-Website erhoben haben (Art. 14 DSGVO). Zweck ist die einmalige geschäftliche Kontaktaufnahme; Rechtsgrundlage ist unser berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO). Nicht kontaktierte Datensätze werden nach spätestens sechs Monaten automatisch gelöscht.\n\n6. Ihre Rechte\nSie haben jederzeit das Recht auf Auskunft, Berichtigung, Löschung oder Einschränkung der Verarbeitung Ihrer Daten, ein Widerspruchsrecht sowie das Recht auf Datenübertragbarkeit (Art. 15–21 DSGVO). Zudem steht Ihnen ein Beschwerderecht bei einer Aufsichtsbehörde zu.\n\n7. SSL-/TLS-Verschlüsselung\nDiese Seite nutzt aus Sicherheitsgründen eine SSL-/TLS-Verschlüsselung.",
+  "agb": "Allgemeine Geschäftsbedingungen (AGB)\n\n1. Geltungsbereich\nDiese AGB gelten für alle Verträge und Leistungen zwischen Pekris GbR (nachfolgend „Auftragnehmer\") und dem Kunden, soweit nicht ausdrücklich etwas anderes vereinbart wurde.\n\n2. Angebot und Vertragsschluss\nAngebote sind freibleibend. Ein Vertrag kommt durch Auftragsbestätigung bzw. Ausführung der Leistung zustande.\n\n3. Leistungen und Preise\nArt und Umfang der Leistung ergeben sich aus der jeweiligen Vereinbarung. Es gelten die zum Zeitpunkt des Vertragsschlusses vereinbarten Preise zzgl. der gesetzlichen Umsatzsteuer.\n\n4. Zahlungsbedingungen\nRechnungen sind, sofern nicht anders vereinbart, innerhalb von 14 Tagen nach Rechnungsstellung ohne Abzug zur Zahlung fällig.\n\n5. Gewährleistung und Haftung\nEs gelten die gesetzlichen Gewährleistungsregelungen. Die Haftung für leicht fahrlässige Pflichtverletzungen ist ausgeschlossen, soweit keine wesentlichen Vertragspflichten betroffen sind oder Schäden aus der Verletzung von Leben, Körper oder Gesundheit resultieren.\n\n6. Schlussbestimmungen\nEs gilt das Recht der Bundesrepublik Deutschland. Sollte eine Bestimmung unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.",
+  "lat": 49.632922199999996,
+  "lng": 8.6338446,
+  "faq": [
+    {
+      "frage": "Wie lange dauert ein durchschnittlicher Umzug?",
+      "antwort": "Die Dauer hängt von den Umfang und den Details ab, aber wir planen gründlich, um eine präzise Schätzung geben zu können."
+    },
+    {
+      "frage": "Bietet Ihr Unternehmen auch für kleinere Umzüge einen Service an?",
+      "antwort": "Ja, wir kümmern uns um alle Aspekte eines Umzugs, unabhängig von der Größe."
+    },
+    {
+      "frage": "Wie weit reicht Ihre Erfahrung hinaus?",
+      "antwort": "Wir haben zahlreiche Umzüge in Weinheim und den angrenzenden Regionen durchgeführt."
+    },
+    {
+      "frage": "Was passiert, wenn etwas beschädigt wird?",
+      "antwort": "Sollte ein Unfall geschehen, bieten wir eine umfassende Versicherung an."
+    },
+    {
+      "frage": "Wie weit im Voraus muss ich buchen?",
+      "antwort": "Je früher Sie planen, desto besser. Wir empfehlen jedoch auch kurzfristige Buchungen zu akzeptieren."
+    }
+  ],
+  "trust": [
+    "Verlässliche Termine",
+    "Individuelle Beratung",
+    "Sicherer Transport",
+    "Flexibilität und Anpassungsfähigkeit",
+    "Regionale Erfahrung"
+  ],
+  "content_enriched": true
 }
