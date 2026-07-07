@@ -61,5 +61,10 @@
   "font_body": "Inter",
   "taste_applied": true,
   "about_image": "/static/img/about_ph.svg",
-  "placeholder_images": true
+  "placeholder_images": true,
+  "fotos_graded": true,
+  "makeover_stages": [
+    "lokal"
+  ],
+  "makeover_version": 7
 }
