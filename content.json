@@ -67,5 +67,7 @@
     "lokal",
     "politur"
   ],
-  "makeover_version": 7
+  "makeover_version": 7,
+  "hero_source": "template",
+  "hero_template": "umzug.jpg"
 }
