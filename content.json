@@ -3,7 +3,7 @@
   "branche": "Umzugsunternehmen",
   "stadt": "Weinheim",
   "telefon": "",
-  "email": "",
+  "email": "info@web-pekris-gbr-production.up.railway.app",
   "adresse": "Von-Kronberg-Str. 2 64646 Heppenheim",
   "akzent": "#1d6fb8",
   "fotos": [
@@ -64,7 +64,8 @@
   "placeholder_images": true,
   "fotos_graded": true,
   "makeover_stages": [
-    "lokal"
+    "lokal",
+    "politur"
   ],
   "makeover_version": 7
 }

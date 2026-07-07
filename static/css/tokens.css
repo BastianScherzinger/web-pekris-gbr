@@ -1,6 +1,5 @@
 /* tokens.css — LOKALE taste-Stufe (design_tokens.py), 0 Claude-Tokens.
    Lädt NACH style.css und überschreibt Palette + Fonts markengerecht. */
-@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap');
 :root{
   --accent:#1d6fb8;
   --accent-dark:#114f87;
