@@ -116,5 +116,9 @@
     "Flexibilität und Anpassungsfähigkeit",
     "Regionale Erfahrung"
   ],
-  "content_enriched": true
+  "content_enriched": true,
+  "map_embed": "https://www.openstreetmap.org/export/embed.html?bbox=8.6038%2C49.6129%2C8.6638%2C49.6529&layer=mapnik&marker=49.6329%2C8.6338",
+  "maps_url": "https://www.openstreetmap.org/search?query=Von-Kronberg-Str.+2+64646+Heppenheim",
+  "premium_upgraded": true,
+  "premium_upgraded_ts": 1783465836.1348
 }
